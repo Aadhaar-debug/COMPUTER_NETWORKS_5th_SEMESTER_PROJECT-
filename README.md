@@ -1,4 +1,3 @@
-##TEAM MEMBERS NEED TO CHANGE THE CONTENTS OF THIS README FILE TO THE PROJECT RELEVENT CONTENT 
 
 # ANALYZING THE NETWORK TRAFFIC FROM A LOCAL AREA NETWORK
 ## TEAM NAME - TEAM Trex
@@ -24,7 +23,7 @@ COMPLETE ANALYSIS OF THE MESSAGE PASSING METHODS IN THE CISCO PACKET TRACER SOFT
 
 [1][2]In our new era PCs become our part of life for every personal and professional requirement. Majority of organizations depend on the finest possible working of their systems for correspondences, organization, mechanization, online business solutions, and so on. LAN is the best fundamental and significant PC system claimed by discrete organizations and might be utilized for interconnection of wide region systems. A LAN provides effective cost sharing of fast processing information handling gear, for example, mass stockpiling media, centralized server PCs or tiny computers and various types of printers. Asset sharing is generally similar as significant where a Local Area Network (LAN) serves as the entrance path for an Internet. In view of this, framework supervisor’s requirement professional tools to help them with the motivation of improvement of QoS and maintenance of LANs. So in our project, a LAN system is structured utilizing Cisco Packet Tracer. This project explains just how the apparatus can be used to build up a reenactment model of the Local Area Network (LAN) for College of Engineering which contains a department like Bio Technology (BT), Civil, Mechanical, ECE and EEE or any. The examination gives a knowledge into different ideas such as IP address setup, topology plan and how to send data as packets in a solitary network and for the usage of Virtual Local Area Networks to isolate the heavy traffic produced by various systems. 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Tech
 
 SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
@@ -43,6 +42,7 @@ SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
 <img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20PDU%20CAPTURE%20RESULT%20(PART%205).jpg">
 <img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20ROUTE%20NETWORK%20ENUMERATION%20(PART%205).jpg">
 <img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/FINAL%20RESULT.jpg">
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## License
 
