@@ -3,11 +3,11 @@
 # ANALYZING THE NETWORK TRAFFIC FROM A LOCAL AREA NETWORK
 ## TEAM NAME - TEAM Trex
 
-## TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
-## TEAM MEMBER - ARJUN CHARAK (5th semester cse dept)
-## TEAM MEMBER - SHOBIT KITCHLOO (5th semester cse dept)
-## TEAM MEMBER - SIDDHARTH BHAWANI (5th semester cse dept)
-## TEAM MEMBER - ANIL KUMAR (5th semester cse dept)
+- TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
+- TEAM MEMBER - ARJUN CHARAK (5th semester cse dept)
+- TEAM MEMBER - SHOBIT KITCHLOO (5th semester cse dept)
+- TEAM MEMBER - SIDDHARTH BHAWANI (5th semester cse dept)
+- TEAM MEMBER - ANIL KUMAR (5th semester cse dept)
 
 CLASS COORDINATOR - VISHALIKA SHARMA
 
