@@ -37,12 +37,12 @@ SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTNTS ABOVE 
 
 # SAMPLES / PICTURES 
-<img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/NETWORK%20FRAMEWORK.jpg" >
-<img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PC1%20CONFIGURATION%20FROM%20VLAN1.jpg">
-<img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20PDU%20CAPTURE%20RESULT%20(PART%205).jpg">
-<img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20ROUTE%20NETWORK%20ENUMERATION%20(PART%205).jpg">
-<img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/FINAL%20RESULT.jpg">
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![FRAMEWORK]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/NETWORK%20FRAMEWORK.jpg))
+![PC CONFIGURATION]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PC1%20CONFIGURATION%20FROM%20VLAN1.jpg))
+![PING CAPTURE]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20PDU%20CAPTURE%20RESULT%20(PART%205).jpg))
+![PING ENUMERATION]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20ROUTE%20NETWORK%20ENUMERATION%20(PART%205).jpg))
+![FINAL RESULT]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/FINAL%20RESULT.jpg))
 
 ## License
 
