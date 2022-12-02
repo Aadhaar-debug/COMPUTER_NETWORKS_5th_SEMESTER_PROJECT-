@@ -37,7 +37,7 @@ SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
 
 
 # SAMPLES / PICTURES 
-<img  align="center" src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/FINAL%20RESULT.jpg" alt="illustrator" width="550" height="300" border-radius="25%"/>
+![My Image](NETWORKING PROJECT PICTURES/NETWORK FRAMEWORK.JPG)
 
 
 ## License
