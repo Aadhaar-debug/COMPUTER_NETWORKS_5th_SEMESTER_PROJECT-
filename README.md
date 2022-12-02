@@ -35,16 +35,8 @@ SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
 
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTNTS ABOVE 
 
-###Sequence Diagram
-                    
-seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-
 # SAMPLES / PICTURES 
-![](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING PROJECT PICTURES/FINAL RESULT.jpg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 ## License
