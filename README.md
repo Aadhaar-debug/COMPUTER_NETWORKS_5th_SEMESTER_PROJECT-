@@ -38,6 +38,11 @@ SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
 
 # SAMPLES / PICTURES 
 
+<img src="https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/FINAL%20RESULT.jpg" width=500>
+<img src="[https://user-images.githubusercontent.com/29403783/84736524-a6320180-afc3-11ea-82e6-34188b285031.png](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PC1%20CONFIGURATION%20FROM%20VLAN1.jpg)" width=500>
+<img src="[https://user-images.githubusercontent.com/29403783/84736524-a6320180-afc3-11ea-82e6-34188b285031.png](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20PDU%20CAPTURE%20RESULT%20(PART%204).jpg)" width=500>
+<img src="[https://user-images.githubusercontent.com/29403783/84736524-a6320180-afc3-11ea-82e6-34188b285031.png](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20ROUTE%20NETWORK%20ENUMERATION%20(PART%202).jpg)" width=500>
+<img src="[https://user-images.githubusercontent.com/29403783/84736524-a6320180-afc3-11ea-82e6-34188b285031.png](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%20REQUEST%20FROM%20VLAN1%20PC%20TO%20VLAN4%20PC.jpg)" width=500>
 
 ## License
 
