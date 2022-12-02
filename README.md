@@ -37,11 +37,12 @@ SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
 
 ###Sequence Diagram
                     
-```seq
+seq
 Andrew->China: Says Hello 
 Note right of China: China thinks\nabout it 
 China-->Andrew: How are you? 
 Andrew->>China: I am good thanks!
+
 # SAMPLES / PICTURES 
 ![](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING PROJECT PICTURES/FINAL RESULT.jpg)
 
